@@ -4,7 +4,7 @@
 Fraud detection system with Spark, Kafka, Sqoop, Hbase, Hive.
 
 ## Solution atchitecture
-![Solution Architecture](https://github.com/amit-singh-rathore/credit-card-fraud-transaction-prediction/images/arch.jpg)
+![Solution Architecture](https://github.com/amit-singh-rathore/credit-card-fraud-transaction-prediction/blob/master/images/arch.jpg)
 
 ## Target task
 
